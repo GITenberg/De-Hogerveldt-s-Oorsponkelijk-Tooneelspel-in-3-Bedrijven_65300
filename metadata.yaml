@@ -1,0 +1,25 @@
+_repo: De-Hogerveldt-s-Oorsponkelijk-Tooneelspel-in-3-Bedrijven_65300
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Estor, Johan Jacob
+    gutenberg_agent_id: '53278'
+    url: http://www.gutenberg.org/2009/agents/53278
+  - agent_name: Daum, Paulus Adrianus
+    gutenberg_agent_id: '53277'
+    url: http://www.gutenberg.org/2009/agents/53277
+description: ''
+gutenberg_issued: '2021-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65300'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'De Hogerveldt''s
+
+  Oorsponkelijk Tooneelspel in 3 Bedrijven'
+url: http://www.gutenberg.org/ebooks/65300
